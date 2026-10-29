@@ -1,0 +1,16 @@
+{
+  "JSON export": true,
+  "editing seed does not move walker": true,
+  "initial generation": true,
+  "invalid input retains map": true,
+  "middle drag pan": true,
+  "room inspector click": true,
+  "seed and floor controls": true,
+  "small viewport footer remains visible": true,
+  "toggle Background": true,
+  "toggle Clearances": true,
+  "toggle Room graph": true,
+  "walk responds outside text field": true,
+  "walk spawn": true,
+  "wheel zoom": true
+}

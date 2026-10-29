@@ -1,0 +1,36 @@
+{
+  "scope": "Headless collision geometry build only; not gameplay FPS",
+  "engine": "Godot 4.7.1",
+  "warmup_builds": 2,
+  "measured_builds": 7,
+  "before": {
+    "bodies": 261,
+    "floor": 2,
+    "seed": 42,
+    "times_ms": [
+      11.078,
+      9.814,
+      10.076,
+      9.344,
+      9.475,
+      9.231,
+      9.658
+    ]
+  },
+  "after": {
+    "bodies": 261,
+    "floor": 2,
+    "seed": 42,
+    "times_ms": [
+      6.622,
+      6.428,
+      6.584,
+      6.339,
+      6.711,
+      6.404,
+      6.661
+    ]
+  },
+  "median_before_ms": 9.658,
+  "median_after_ms": 6.584
+}

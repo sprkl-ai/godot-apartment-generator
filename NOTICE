@@ -1,0 +1,10 @@
+Apartment Generator Lab
+Copyright (c) 2026 sprkl-ai and The way to Chekushka contributors
+
+Generator, furnishing logic and data schemas are extracted from:
+https://github.com/samarsky-gamedev/The-way-to-Chekushka
+Exact source commit and per-file hashes: docs/source_manifest.json
+
+The architecture retains coordinate and random-stream conventions from the
+earlier prototype. The workbench, inspection/export adapter and 2.5D examples
+accompany the extracted generator. Game artwork and audio are not included.

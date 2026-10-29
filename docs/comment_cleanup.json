@@ -1,0 +1,110 @@
+{
+  "files": [
+    {
+      "file": "core/dotnet_random.gd",
+      "before": 42,
+      "after": 3
+    },
+    {
+      "file": "core/loot/loot.gd",
+      "before": 1,
+      "after": 0
+    },
+    {
+      "file": "core/world/endless_floor_data.gd",
+      "before": 21,
+      "after": 5
+    },
+    {
+      "file": "core/world/endless_node.gd",
+      "before": 21,
+      "after": 3
+    },
+    {
+      "file": "data/balance/endless_furnishing_stats.gd",
+      "before": 11,
+      "after": 2
+    },
+    {
+      "file": "data/balance/endless_sanity_stats.gd",
+      "before": 0,
+      "after": 0
+    },
+    {
+      "file": "data/balance/endless_scheme.gd",
+      "before": 20,
+      "after": 0
+    },
+    {
+      "file": "data/levels/attic_anchor_def.gd",
+      "before": 4,
+      "after": 0
+    },
+    {
+      "file": "data/levels/door_def.gd",
+      "before": 14,
+      "after": 2
+    },
+    {
+      "file": "data/levels/door_opening.gd",
+      "before": 6,
+      "after": 1
+    },
+    {
+      "file": "data/levels/fog_placement.gd",
+      "before": 15,
+      "after": 1
+    },
+    {
+      "file": "data/levels/level_collider_def.gd",
+      "before": 25,
+      "after": 2
+    },
+    {
+      "file": "data/levels/level_def.gd",
+      "before": 54,
+      "after": 2
+    },
+    {
+      "file": "data/levels/light_placement_def.gd",
+      "before": 1,
+      "after": 0
+    },
+    {
+      "file": "data/levels/room_def.gd",
+      "before": 43,
+      "after": 5
+    },
+    {
+      "file": "data/levels/shadow_stroke_def.gd",
+      "before": 3,
+      "after": 0
+    },
+    {
+      "file": "data/levels/wall_segment.gd",
+      "before": 3,
+      "after": 0
+    },
+    {
+      "file": "data/props/trash_catalog.gd",
+      "before": 5,
+      "after": 0
+    },
+    {
+      "file": "data/props/trash_def.gd",
+      "before": 11,
+      "after": 0
+    },
+    {
+      "file": "core/world/endless_generator.gd",
+      "before": 257,
+      "after": 65
+    },
+    {
+      "file": "core/world/endless_furnishing.gd",
+      "before": 105,
+      "after": 38
+    }
+  ],
+  "executable_lines_unchanged": true
+}

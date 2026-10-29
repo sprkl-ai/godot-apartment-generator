@@ -1,0 +1,60 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://data/balance/endless_sanity_stats.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+sanity_max = 100.0
+sanity_loss = 1.0
+sanity_interval = 10.0
+nearby_fog_radius = 3.0
+nearby_fog_decay_multiplier = 3.0
+pill_recovery = 30.0
+pill_duration = 10.0
+plant_recovery_per_second = 2.0
+rare_threshold = 0.4
+patch_threshold = 0.5
+phantom_threshold = 0.25
+ally_threshold = 0.15
+brightness_interval_min = 6.0
+brightness_interval_max = 9.0
+brightness_duration_min = 1.0
+brightness_duration_max = 2.0
+brightness_multiplier = 0.5
+patch_interval = 20.0
+patch_intense_threshold = 0.3
+patch_intense_interval = 4.0
+patch_intense_count = 3
+patch_reroll_interval = 5.0
+patch_hold_min = 4.0
+patch_hold_max = 6.0
+patch_switch_duration = 0.45
+patch_switch_interval = 0.06
+patch_size = 1.0
+patch_count = 1
+patch_upload_grid_size = 64
+patch_height = 1.3
+patch_variant_count = 14
+dither_threshold = 0.45
+dither_strength = 0.1
+permanent_darkness_threshold = 0.4
+permanent_darkness_multiplier = 0.5
+heartbeat_threshold = 0.3
+heartbeat_volume_db = -8.0
+phantom_interval_min = 10.0
+phantom_interval_max = 16.0
+phantom_lifetime = 6.0
+phantom_speed = 1.2
+phantom_spawn_distance_min = 3.0
+phantom_spawn_distance_max = 5.0
+phantom_max_count = 2
+phantom_burst_interval = 0.5
+phantom_burst_duration = 2.0
+phantom_burst_count = 4
+ally_hit_damage = 10
+ally_hit_cooldown = 20.0
+ally_substitution_duration = 0.5
+pill_spawn_chance = 0.5
+pill_min_per_floor = 2
+pill_max_per_floor = 4
+debug_sanity_fraction = 0.5

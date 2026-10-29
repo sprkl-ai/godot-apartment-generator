@@ -1,0 +1,217 @@
+{
+  "checks": 145,
+  "failures": [],
+  "maps": [
+    {
+      "floor": 1,
+      "generation_ms": 709.909,
+      "issues": [],
+      "rooms": 17,
+      "seed": 1,
+      "validation_ms": 26.24
+    },
+    {
+      "floor": 2,
+      "generation_ms": 574.6,
+      "issues": [
+        "Room 5: conservative door lanes disconnected",
+        "Room 7: conservative door lanes disconnected"
+      ],
+      "rooms": 18,
+      "seed": 1,
+      "validation_ms": 21.229
+    },
+    {
+      "floor": 5,
+      "generation_ms": 501.278,
+      "issues": [
+        "Room 4: conservative door lanes disconnected"
+      ],
+      "rooms": 18,
+      "seed": 1,
+      "validation_ms": 24.388
+    },
+    {
+      "floor": 1,
+      "generation_ms": 616.844,
+      "issues": [],
+      "rooms": 17,
+      "seed": 2,
+      "validation_ms": 23.437
+    },
+    {
+      "floor": 2,
+      "generation_ms": 630.186,
+      "issues": [],
+      "rooms": 20,
+      "seed": 2,
+      "validation_ms": 33.147
+    },
+    {
+      "floor": 5,
+      "generation_ms": 599.965,
+      "issues": [
+        "Room 4: conservative door lanes disconnected"
+      ],
+      "rooms": 16,
+      "seed": 2,
+      "validation_ms": 19.404
+    },
+    {
+      "floor": 1,
+      "generation_ms": 625.799,
+      "issues": [
+        "Room 2: conservative door lanes disconnected"
+      ],
+      "rooms": 17,
+      "seed": 3,
+      "validation_ms": 18.03
+    },
+    {
+      "floor": 2,
+      "generation_ms": 564.829,
+      "issues": [],
+      "rooms": 18,
+      "seed": 3,
+      "validation_ms": 25.735
+    },
+    {
+      "floor": 5,
+      "generation_ms": 420.422,
+      "issues": [],
+      "rooms": 17,
+      "seed": 3,
+      "validation_ms": 19.462
+    },
+    {
+      "floor": 1,
+      "generation_ms": 526.199,
+      "issues": [],
+      "rooms": 17,
+      "seed": 42,
+      "validation_ms": 22.397
+    },
+    {
+      "floor": 2,
+      "generation_ms": 708.093,
+      "issues": [],
+      "rooms": 20,
+      "seed": 42,
+      "validation_ms": 28.309
+    },
+    {
+      "floor": 5,
+      "generation_ms": 518.496,
+      "issues": [],
+      "rooms": 18,
+      "seed": 42,
+      "validation_ms": 25.089
+    },
+    {
+      "floor": 1,
+      "generation_ms": 578.69,
+      "issues": [
+        "Room 2: conservative door lanes disconnected",
+        "Room 9: conservative door lanes disconnected"
+      ],
+      "rooms": 16,
+      "seed": 100,
+      "validation_ms": 20.021
+    },
+    {
+      "floor": 2,
+      "generation_ms": 536.952,
+      "issues": [],
+      "rooms": 18,
+      "seed": 100,
+      "validation_ms": 24.401
+    },
+    {
+      "floor": 5,
+      "generation_ms": 508.257,
+      "issues": [
+        "Room 4: conservative door lanes disconnected"
+      ],
+      "rooms": 17,
+      "seed": 100,
+      "validation_ms": 21.205
+    },
+    {
+      "floor": 1,
+      "generation_ms": 538.342,
+      "issues": [],
+      "rooms": 18,
+      "seed": 104829,
+      "validation_ms": 23.888
+    },
+    {
+      "floor": 2,
+      "generation_ms": 765.286,
+      "issues": [],
+      "rooms": 18,
+      "seed": 104829,
+      "validation_ms": 26.187
+    },
+    {
+      "floor": 5,
+      "generation_ms": 594.731,
+      "issues": [],
+      "rooms": 17,
+      "seed": 104829,
+      "validation_ms": 22.023
+    },
+    {
+      "floor": 1,
+      "generation_ms": 545.339,
+      "issues": [],
+      "rooms": 18,
+      "seed": 386232221,
+      "validation_ms": 24.552
+    },
+    {
+      "floor": 2,
+      "generation_ms": 592.134,
+      "issues": [],
+      "rooms": 18,
+      "seed": 386232221,
+      "validation_ms": 22.005
+    },
+    {
+      "floor": 5,
+      "generation_ms": 412.356,
+      "issues": [],
+      "rooms": 18,
+      "seed": 386232221,
+      "validation_ms": 22.918
+    },
+    {
+      "floor": 1,
+      "generation_ms": 508.126,
+      "issues": [],
+      "rooms": 18,
+      "seed": -1234,
+      "validation_ms": 22.614
+    },
+    {
+      "floor": 2,
+      "generation_ms": 494.849,
+      "issues": [
+        "Room 13: conservative door lanes disconnected"
+      ],
+      "rooms": 16,
+      "seed": -1234,
+      "validation_ms": 18.565
+    },
+    {
+      "floor": 5,
+      "generation_ms": 582.014,
+      "issues": [
+        "Room 4: conservative door lanes disconnected"
+      ],
+      "rooms": 19,
+      "seed": -1234,
+      "validation_ms": 25.522
+    }
+  ],
+  "source_parity_cases": 9
+}

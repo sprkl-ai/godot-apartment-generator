@@ -1,0 +1,158 @@
+{
+  "source_repository": "https://github.com/samarsky-gamedev/The-way-to-Chekushka",
+  "revision": "b2861b4b86b5460ea1410b1f03baba439ceb7141",
+  "text_normalization": "UTF-8 without BOM, LF, single final newline",
+  "files": [
+    {
+      "path": "core/dotnet_random.gd",
+      "source_sha256": "05501a262d5b2fbdb59313b8285738930b288dad29f92b07cc9cfc00d064d8f2",
+      "extracted_sha256": "05501a262d5b2fbdb59313b8285738930b288dad29f92b07cc9cfc00d064d8f2",
+      "published_sha256": "284d8a18a1bf22e7ae57d1e5ee32ee88183ea48fbc9f3830d6ab402ffcaf9c67"
+    },
+    {
+      "path": "core/world/endless_generator.gd",
+      "source_sha256": "574b69e99b578775564de85339219e798da799383087dd710e0c512ef77e127f",
+      "extracted_sha256": "eaaa0a74434cd0e38bd1691b24f99f28be3c707b19638deb90fb9a1bd7d76a38",
+      "published_sha256": "8a93169db2893f45207df6086c6f5bf1fac9a2d474d11cfe7337480f38906418"
+    },
+    {
+      "path": "core/world/endless_furnishing.gd",
+      "source_sha256": "808d498eb01b00a0d316635c2083e1cebf452b6f821abea90d0a4f4360ec82be",
+      "extracted_sha256": "c949cb12ef637d70c5d328f9c7abc0471ec7b4a076865c051bc1e01235f4b45d",
+      "published_sha256": "b3618a92ad0fc5b923c6c095d7f9595da94a793177fd76a0d8ec54295f234313"
+    },
+    {
+      "path": "core/world/endless_floor_data.gd",
+      "source_sha256": "bd370330438643fb572503386491582873792fb40b0dc7e6d3233899caa92c62",
+      "extracted_sha256": "bd370330438643fb572503386491582873792fb40b0dc7e6d3233899caa92c62",
+      "published_sha256": "2c67b7b8bde7c93381925fb491bc461e76644210db0cd2ee812ecfaeb269ddce"
+    },
+    {
+      "path": "core/world/endless_node.gd",
+      "source_sha256": "e611b6641973929027f5507b125529be5c60604a2d36e2268c29d24e7c586000",
+      "extracted_sha256": "e611b6641973929027f5507b125529be5c60604a2d36e2268c29d24e7c586000",
+      "published_sha256": "049543db8776d47a4c95d56f28a50cd4c9e74253e58e60abea787c74a30b6990"
+    },
+    {
+      "path": "data/balance/endless_scheme.gd",
+      "source_sha256": "8ff29b6e59513e6d8aa056bf9c0f018ba1d713190d381822989da70d1af85eb7",
+      "extracted_sha256": "8ff29b6e59513e6d8aa056bf9c0f018ba1d713190d381822989da70d1af85eb7",
+      "published_sha256": "c7b88ea185d36af9c07f7952def70a23cb216a72ff7d72b274f966dbfcd217a1"
+    },
+    {
+      "path": "data/balance/endless_scheme.tres",
+      "source_sha256": "fe26ea67dc3463608117d54bc2f000d550bf247fc7cf5e0b5e9a8cdf0481eb84",
+      "extracted_sha256": "fe26ea67dc3463608117d54bc2f000d550bf247fc7cf5e0b5e9a8cdf0481eb84",
+      "published_sha256": "fe26ea67dc3463608117d54bc2f000d550bf247fc7cf5e0b5e9a8cdf0481eb84"
+    },
+    {
+      "path": "data/balance/endless_furnishing_stats.gd",
+      "source_sha256": "f192faf64403359198274581dec112552383fcf049a61d93934cdc3e8bf7246e",
+      "extracted_sha256": "e28552b1bc83bde48828c80f77a78a54ac83d833b0b6cc7a9d8f5036905c942a",
+      "published_sha256": "2db607de3383ce49fb379b2212aaffc6f25d2d66abc310041e882c99d072ca48"
+    },
+    {
+      "path": "data/balance/endless_furnishing_stats.tres",
+      "source_sha256": "61483af4c1362f2cd914d63e5f43460183c1d1503480d0e962dea403cd739291",
+      "extracted_sha256": "03dbda87b68608ab798656ff3c0fb85fdf1c51e02899ef715319d084ea1a0267",
+      "published_sha256": "03dbda87b68608ab798656ff3c0fb85fdf1c51e02899ef715319d084ea1a0267"
+    },
+    {
+      "path": "data/balance/endless_sanity_stats.gd",
+      "source_sha256": "9f1938a5c554f18329f05458570e3ba74a3eaaf6c6bed2f21e38fb3abe034b28",
+      "extracted_sha256": "9f1938a5c554f18329f05458570e3ba74a3eaaf6c6bed2f21e38fb3abe034b28",
+      "published_sha256": "c71b54e61d1d13810bffc66b575d44405aa811817bbe28aa063d511e4a603378"
+    },
+    {
+      "path": "data/balance/endless_sanity_stats.tres",
+      "source_sha256": "cd32aa585b78ea96a6f4b7aaffafa1351448789f566acc5249206993f1e7c7e1",
+      "extracted_sha256": "cd32aa585b78ea96a6f4b7aaffafa1351448789f566acc5249206993f1e7c7e1",
+      "published_sha256": "cd32aa585b78ea96a6f4b7aaffafa1351448789f566acc5249206993f1e7c7e1"
+    },
+    {
+      "path": "data/levels/level_def.gd",
+      "source_sha256": "03ee4d44e4680e4a79d14d3abee7323c26431ea5f785e6a4d6a49a7a1018dce7",
+      "extracted_sha256": "03ee4d44e4680e4a79d14d3abee7323c26431ea5f785e6a4d6a49a7a1018dce7",
+      "published_sha256": "6aa92c6dd7a36c03aaac1339897a351539ddb35ec65bc02bf466e6f368707b28"
+    },
+    {
+      "path": "data/levels/room_def.gd",
+      "source_sha256": "cb32fc7c72b0f9c6d859eba97c36fb9f31df36854ca058bf0f0e2d35de086a9f",
+      "extracted_sha256": "cb32fc7c72b0f9c6d859eba97c36fb9f31df36854ca058bf0f0e2d35de086a9f",
+      "published_sha256": "76e96231f2ab21f1adc16f484c330693c4325b4784f9122952edbf767bb62677"
+    },
+    {
+      "path": "data/levels/door_def.gd",
+      "source_sha256": "765b7bf180caeb54d6c1de31a60f836055f9c061a5787f6497c4100fdba468d3",
+      "extracted_sha256": "765b7bf180caeb54d6c1de31a60f836055f9c061a5787f6497c4100fdba468d3",
+      "published_sha256": "45ec03b720c8ec6c359fb9f6c1f806f035f5e9952a3456248283c1cbae92b934"
+    },
+    {
+      "path": "data/levels/level_collider_def.gd",
+      "source_sha256": "5a7e400b62981dae4a34bb998d346bcfad69c597baaff7b924688805c7cde910",
+      "extracted_sha256": "5a7e400b62981dae4a34bb998d346bcfad69c597baaff7b924688805c7cde910",
+      "published_sha256": "5fc0a10dfb23318902ec47dfe2684e1492eec51da5b2706f11a5f3672a0836e0"
+    },
+    {
+      "path": "data/levels/wall_segment.gd",
+      "source_sha256": "2ad6355aacb8bd2595f80a2cd3b35874cd7052c7c55925b1bb967be1031e3ef7",
+      "extracted_sha256": "2ad6355aacb8bd2595f80a2cd3b35874cd7052c7c55925b1bb967be1031e3ef7",
+      "published_sha256": "43c7940cb6847106d713371a9fc7d706abf5cdcf781f64edb70b0fe9b91e394b"
+    },
+    {
+      "path": "data/levels/door_opening.gd",
+      "source_sha256": "d3d8f2d41aa5bd64661ae1c26dce2c34f9b30b35177c7a814b08a4562d9e5839",
+      "extracted_sha256": "d3d8f2d41aa5bd64661ae1c26dce2c34f9b30b35177c7a814b08a4562d9e5839",
+      "published_sha256": "bbf065754564179e235368fb5af62164d78f98fd83897c5fb095b118073b5377"
+    },
+    {
+      "path": "data/levels/fog_placement.gd",
+      "source_sha256": "d81f503e066580da1a53a3d8b1355c36b9d0df24fcc1aea837a0c10719378b84",
+      "extracted_sha256": "d81f503e066580da1a53a3d8b1355c36b9d0df24fcc1aea837a0c10719378b84",
+      "published_sha256": "a038756de52bc6d266f4c6f2ab17952f9f8b215ba1cbbf6e2bdb254fd388915b"
+    },
+    {
+      "path": "data/levels/light_placement_def.gd",
+      "source_sha256": "310fd20e83a6d09066b642e4eb5b256d465d10c9438299c0cd109b040ede3739",
+      "extracted_sha256": "310fd20e83a6d09066b642e4eb5b256d465d10c9438299c0cd109b040ede3739",
+      "published_sha256": "b4673075ad69f4d880b72781e3588ada8317d38ae9d1269cee8b62a4df86b1f0"
+    },
+    {
+      "path": "data/levels/shadow_stroke_def.gd",
+      "source_sha256": "155d243758ff6d98299d94da7a226dc1651285cc2952bc5af04c760daa2f75e3",
+      "extracted_sha256": "155d243758ff6d98299d94da7a226dc1651285cc2952bc5af04c760daa2f75e3",
+      "published_sha256": "1f410553b513babf3fd306dba08ad9013db28ee89a391248c00e577689561055"
+    },
+    {
+      "path": "data/levels/attic_anchor_def.gd",
+      "source_sha256": "ce9574bf45207600008ab9ab2846d66b210b45db88583a029bd4918f229c1133",
+      "extracted_sha256": "ce9574bf45207600008ab9ab2846d66b210b45db88583a029bd4918f229c1133",
+      "published_sha256": "dcb7cffd3459dfc8dc06c936bdb7ca243643eecd47de346848a7105b1f2b8ad6"
+    },
+    {
+      "path": "data/props/trash_catalog.gd",
+      "source_sha256": "5d5db319dd925346542d3b27a99b255f3318fd331a59863cdd9a962cb8930107",
+      "extracted_sha256": "5d5db319dd925346542d3b27a99b255f3318fd331a59863cdd9a962cb8930107",
+      "published_sha256": "a12de235b1ba89b62526b33b4f2c1256ba2392026aa86650f12905db563cbc12"
+    },
+    {
+      "path": "data/props/trash_def.gd",
+      "source_sha256": "10f88b8f876d346b0471677f0ccad63bd1253490d4cdf4ebe701968f7158da8e",
+      "extracted_sha256": "10f88b8f876d346b0471677f0ccad63bd1253490d4cdf4ebe701968f7158da8e",
+      "published_sha256": "e672d05462747ee34d21272572a2321114ea792ea8ccad1b36fc7028ce263c9f"
+    },
+    {
+      "path": "core/loot/loot.gd",
+      "source_sha256": "50ab60a3bc41e72480116d72fbf727153f8d8183d092ce26ed2cf723f1ed21cc",
+      "extracted_sha256": "cbaed046d2f39790a2e8d76321b1d1a6c5de13bda7eeeaa13e5548a6bc37dcde",
+      "published_sha256": "1448509b1d066bbcfa4d34173097985af3b5867317bfc2454df4346ceb6b1836"
+    }
+  ],
+  "adaptations": [
+    "Remove the theme-dependent runtime trash catalogue load (no game art).",
+    "Keep the unchanged item-ID enum and plant predicate; remove gameplay inventory/assets."
+  ],
+  "published_changes": [
+    "Comment-only cleanup of extracted GDScript; layouts remain covered by production reference fingerprints."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "canonicalization": "JSON.stringify(layout_document(), empty_indent, sort_keys=true, full_precision=true).sha256_text()",
+  "cases": [
+    {
+      "doors": 17,
+      "floor": 1,
+      "rooms": 17,
+      "run_seed": 1,
+      "sha256": "f643321e53f7bf46771036517b9ffbbdabc55feedc63ac9fd740643562683253"
+    },
+    {
+      "doors": 18,
+      "floor": 2,
+      "rooms": 18,
+      "run_seed": 1,
+      "sha256": "761006c5827753ced9617770e3728ecb96258115a2153532d337c34d1b5f543f"
+    },
+    {
+      "doors": 18,
+      "floor": 5,
+      "rooms": 18,
+      "run_seed": 1,
+      "sha256": "b29efb58eaa15506b5e442c8d68cdf22414c402282e5e24531b5fa7b83431ed2"
+    },
+    {
+      "doors": 17,
+      "floor": 1,
+      "rooms": 17,
+      "run_seed": 42,
+      "sha256": "8f76ffdb393debda528502fa746d646178b00ad8cb7889024c9b45c055c033c7"
+    },
+    {
+      "doors": 20,
+      "floor": 2,
+      "rooms": 20,
+      "run_seed": 42,
+      "sha256": "1b4bf59eda547c21afe507af958f8186fcaa14cb422cfa51ef689eb2638f4c82"
+    },
+    {
+      "doors": 18,
+      "floor": 5,
+      "rooms": 18,
+      "run_seed": 42,
+      "sha256": "0fba50111f6bf6d25b7aedfe8036da2db83f9e06f7dac7a47dc23399f32628d1"
+    },
+    {
+      "doors": 18,
+      "floor": 1,
+      "rooms": 18,
+      "run_seed": 104829,
+      "sha256": "d895a6c1f1d38252b736914b02e4da9208df5a84cf28b8c05150a60317c69b6b"
+    },
+    {
+      "doors": 18,
+      "floor": 2,
+      "rooms": 18,
+      "run_seed": 104829,
+      "sha256": "7a3b10ee4b0585f828d0d08847d96626505f310dce61849e8c70aa14ecbadbf4"
+    },
+    {
+      "doors": 17,
+      "floor": 5,
+      "rooms": 17,
+      "run_seed": 104829,
+      "sha256": "2b47daf8521866b6be2de7040ff8d54aa588dad46a4ad3b438edf905517f14b9"
+    }
+  ],
+  "source_repository": "https://github.com/samarsky-gamedev/The-way-to-Chekushka",
+  "source_revision": "b2861b4"
+}
